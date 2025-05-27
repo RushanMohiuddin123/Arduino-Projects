@@ -1,14 +1,28 @@
-#Soil Sensor
-This project demonstrates a simple soil moisture sensing system using an Arduino Uno. It's designed to monitor the moisture content of soil and display or trigger actions based on the readings.
-It contains the features like:
- Real-time soil moisture detection.
- Uses analog sensor input.
- Simple, cost-effective, and expandable.
- Can be integrated with an LCD display or IoT platform.
-It also contains the Hardware like:
- Arduino Uno
- Soil Moisture Sensor
- Jumper Wires
- Breadboard
- LCD Display 
- 
+# 🔧 Arduino Projects by Rushan Mohiuddin
+
+Hi! I'm an Electronics & Communication Engineering student passionate about embedded systems. Here's a collection of my hands-on Arduino projects.
+
+---
+
+## 🔹 LED Blink
+- Simple LED blink program using Arduino Uno
+- Learned about delays and digitalWrite functions
+- File: led_blink.ino
+
+## 🔹 Soil Sensor
+- Real-time soil moisture detection.
+- Uses analog sensor input,Simple, cost-effective, and expandable
+- File: soil_sensor.ino
+
+##  🌡️ DHT11 Temperature and Humidity Sensor with Arduino Uno
+- Real-time measurement of temperature (°C) and humidity (%)
+- Simple hardware setup using Arduino Uno
+- Expandable for use in IoT and automation systems
+
+---
+
+## 📫 Contact
+- *Name:* Rushan Mohiuddin 
+- *Email:* md.rushanmohiuddin@gmail.com  
+- *Phone:* +91 8115040242 
+- *College:* Pranveer Singh Institute of Technology, Kanpur
